@@ -13,4 +13,4 @@ Dữ liệu sử dụng: [DATA SOURCE](https://www.kaggle.com/datasets/somyaagar
 
 ## Data Dictionary 
 
-Dictionary này thuộc về bộ dữ liệu LC gốc: [DATA DICT](/DataDictionary.xlsx)
+Dictionary này thuộc về bộ dữ liệu LC gốc: [DATA DICT](/LCDataDictionary.xlsx)
