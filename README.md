@@ -2,7 +2,7 @@
   <h1>XÂY DỰNG SCORECARD TRÊN DỮ LIỆU LOAN_DATA_2015</h1>
 </p>
 
-Dữ liệu sử dụng: [DATA SOURCE](https://www.kaggle.com/datasets/somyaagarwal69/loan-data-2015)
+Dữ liệu sử dụng: [DATA_SOURCE](https://www.kaggle.com/datasets/somyaagarwal69/loan-data-2015)
 
 ## Một số lưu ý
 <p align="justify"> 
@@ -13,4 +13,4 @@ Dữ liệu sử dụng: [DATA SOURCE](https://www.kaggle.com/datasets/somyaagar
 
 ## Data Dictionary 
 
-Dictionary này thuộc về bộ dữ liệu LC gốc: [DATA DICT](/LCDataDictionary.xlsx)
+Dictionary này thuộc về bộ dữ liệu LC gốc: [DATA_DICT](/LCDataDictionary.xlsx)
