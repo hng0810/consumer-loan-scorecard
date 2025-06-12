@@ -6,7 +6,7 @@
 
   Dữ liệu trong bài là một phần nhỏ của bộ dữ liệu này.
 
-  Bài phân tích: [NOTEBOOK](/src/notebook)
+  Bài phân tích: [NOTEBOOK](/src/notebook.ipynb)
 </p>
 
 ## Data Source
