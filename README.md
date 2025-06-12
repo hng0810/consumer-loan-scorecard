@@ -5,6 +5,8 @@
   Lending Club Dataset là một dataset public toàn bộ thông tin về các khoản vay cá nhân được phát hành qua nền tảng Lending Club tại Mỹ trong giai đoạn 2007–2015. LC là một nền tảng cho vay ngang hàng (P2P), kết nối trực tiếp giữa nhà đầu tư và người đi vay, đặc trưng có thể khác nhiều so với dữ liệu tín dụng thông thường tại Việt Nam.
 
   Dữ liệu trong bài là một phần nhỏ của bộ dữ liệu này.
+
+  Bài phân tích: [NOTEBOOK](/src/notebook)
 </p>
 
 ## Data Source
