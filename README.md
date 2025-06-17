@@ -1,16 +1,17 @@
-# XÂY DỰNG SCORECARD TRÊN DỮ LIỆU LOAN_DATA_2015
+# BUILD CREDIT SCORECARD WITH LOAN_DATA_2015 DATASET
 
-## Giới thiệu
+## Introduction
 <p align="justify"> 
-  Lending Club Dataset là một dataset public toàn bộ thông tin về các khoản vay cá nhân được phát hành qua nền tảng Lending Club tại Mỹ trong giai đoạn 2007–2015. LC là một nền tảng cho vay ngang hàng (P2P), kết nối trực tiếp giữa nhà đầu tư và người đi vay, đặc trưng có thể khác nhiều so với dữ liệu tín dụng thông thường tại Việt Nam.
+  The Lending Club Dataset is a publicly available dataset containing information on personal loans issued through the Lending Club platform in the United States during the period from 2007 to 2015. Lending Club is a P2P lending platform that directly connects investors with borrowers, featuring characteristics may differ significantly from conventional credit data in Vietnam.
 
-  Dữ liệu trong bài là một phần nhỏ của bộ dữ liệu này.
+  The data used in this analysis represents a small subset of the full dataset.
 
-  Bài phân tích: [NOTEBOOK](/src/notebook.ipynb)
+  Find my notebook here: [NOTEBOOK](/src/notebook.ipynb)
 </p>
 
-## Data Source
+## About the dataset
+<p align="justify">
+  Data sources: [DATA_SOURCE](https://www.kaggle.com/datasets/somyaagarwal69/loan-data-2015)
 
-Dữ liệu sử dụng: [DATA_SOURCE](https://www.kaggle.com/datasets/somyaagarwal69/loan-data-2015)
-
-Dictionary này thuộc về bộ dữ liệu LC gốc: [DATA_DICT](/LCDataDictionary.xlsx)
+  Dictionary of the Lending Club dataset: [DATA_DICT](/LCDataDictionary.xlsx)
+</p>
